@@ -1,0 +1,23 @@
+@relation route1
+
+@attribute outlook {sunny, overcast, rainy}
+@attribute turbulence { normal, turbulent}
+@attribute storm {yes, no}
+@attribute collision {low, med, high}
+@attribute deviation {yes, no}
+
+@data
+sunny,turbulent,yes,high,no
+sunny,turbulent,yes,high,no
+overcast,turbulent,yes,high,yes
+rainy,turbulent,yes,med,yes
+rainy,turbulent,no,med,yes
+rainy,normal,no,high,no
+overcast,normal,no,high,yes
+sunny,normal,yes,low,no
+sunny,normal,no,high,yes
+rainy,normal,no,high,no
+sunny,normal,no,high,yes
+overcast,normal,yes,high,yes
+overcast,turbulent,yes,low,yes
+rainy,normal,yes,high,yes

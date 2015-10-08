@@ -1,0 +1,14 @@
+sunny,turbulent,no,high,no
+sunny,turbulent,no,high,no
+sunny,normal,no,low,no
+sunny,normal,yes,high,yes
+sunny,normal,yes,high,yes
+overcast,turbulent,yes,high,yes
+overcast,normal,no,high,yes
+overcast,normal,yes,high,yes
+overcast,turbulent,yes,low,yes
+rainy,turbulent,yes,med,yes
+rainy,turbulent,no,med,yes
+rainy,normal,no,high,no
+rainy,normal,no,high,no
+rainy,normal,yes,high,no
