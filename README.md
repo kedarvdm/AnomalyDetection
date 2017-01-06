@@ -1,2 +1,2 @@
 # AnomalyDetection
-Semester project for Application Engineering and Development
+Semester project for Program structures and Algorithms
